@@ -1,14 +1,13 @@
-My name is Sanjay Gupta most people call me Sanjay. I was born and brought up in Visakhapatnam. visakhapatnam is meant for tourism.
+Problem Introduction
+RSVP Movies is an Indian film production company that has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
 
-As per my education, I hold a master's degree in MBA finance and marketing from Gitam Institute of Management, Visakhapatnam. I have done bachelor's degree in BBA(COMPUTER APPLICATION) from Hindusthan College of Arts and Science, Coimbatore. I completed a graduate Executive in Business Analytics associated with LIBA, Upgrad.
+ 
 
-Apart  from my education, I have completed an internship in Kulturehire as a Business Analyst intern where I gained knowledge in  tools and technologies like Python, PowerBI, SQL, and Advance Excel. I have completed two projects during my internship which  are Genz Career Aspiration and Decoding Ankur Warikoo Linkedin Posts. Through these projects, I gained experience and proficiency in tools like Python, PowerBI, Advanced Excel, and SQL.
+The production company wants to plan its every move analytically based on data and has approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyze the data set and draw meaningful insights that can help them start their new project. 
 
-I possess key skills in data understanding, data cleaning, data analysis, data modeling, data visualization, and Data insights.
-Through these skills, I want to pursue my career in data related role.
+ 
+
+You are a data analyst and an SQL expert. You have to use SQL to analyze the given data and give recommendations to RSVP Movies based on the insights. For your convenience, the entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables. The questions in each segment with business objectives are written in the script given below. You have to write the solution code below every question and submit the same SQL script file with the solution in the 'Submission' segment.
 
 
-
-## 🚀 About Me
-I'm a Data Analyst
 
